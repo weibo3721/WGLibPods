@@ -1,0 +1,6 @@
+use_frameworks!
+target 'WGLib_Tests' do
+  pod 'WGLib', :path => '../'
+  
+  
+end
