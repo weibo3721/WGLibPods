@@ -1,0 +1,22 @@
+{
+  "name": "WGLib",
+  "version": "0.1.0",
+  "summary": "A short description of WGLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/weibo/WGLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "weibo": "weibo@home.com"
+  },
+  "source": {
+    "git": "https://github.com/weibo/WGLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WGLib/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - WGLib (0.1.0)
+
+DEPENDENCIES:
+  - WGLib (from `../`)
+
+EXTERNAL SOURCES:
+  WGLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WGLib: bf9b1209321a63280ab6eba043f9cf1d26c280fd
+
+PODFILE CHECKSUM: 7f7af7d12ccdab3daa1c13c7ebc58697cbaa28bb
+
+COCOAPODS: 1.6.1

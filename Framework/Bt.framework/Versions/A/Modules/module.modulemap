@@ -1,0 +1,8 @@
+framework module "Bt" {
+	header "ref.h"
+    header "Bt.objc.h"
+    header "Universe.objc.h"
+    header "Bt.h"
+
+    export *
+}

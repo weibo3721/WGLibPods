@@ -1,0 +1,6 @@
+framework module WGLib {
+  umbrella header "WGLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
