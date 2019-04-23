@@ -30,6 +30,8 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
+  spec.ios.vendored_frameworks = 'Framework/*.framework'
+
   s.source_files = 'WGLib/Classes/**/*'
   
   # s.resource_bundles = {
